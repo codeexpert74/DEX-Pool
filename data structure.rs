@@ -3,6 +3,7 @@
 #[account]
 #[derive(Default)]
 pub struct Pair {
+    
     pub token_a: Pubkey,
     pub token_b: Pubkey,
     pub reserve_a: u64,
