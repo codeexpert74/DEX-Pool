@@ -1,1 +1,1 @@
-# DEX-Pool
+Dex Pool Strategy
