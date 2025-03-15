@@ -1,4 +1,5 @@
 // Data structures
+
 #[account]
 #[derive(Default)]
 pub struct Pair {
